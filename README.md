@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **ReactJS,GraphQL,Material UI,Ant Design ,Python,Swift**
 
-- 👨‍💻 All of my projects are available at [creators.qpkendra.com](creators.qpkendra.com)
+- 👨‍💻 All of my projects are available at [creators.qpkendra.com](https://creators.qpkendra.com)
 
 - 📫 How to reach me **hello@qpkendra.com**
 
-- 📄 Know about my experiences [creators.qpkendra.com/resume](creators.qpkendra.com/resume)
+- 📄 Know about my experiences [creators.qpkendra.com/resume](https://creators.qpkendra.com/resume)
 
 - ⚡ Fun fact **Be Simple | Be You**
 
