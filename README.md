@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
-<h3 align="center">An frontend developer from India</h3>
+<h3 align="center">An Full Stack developer.</h3>
 
 
 
-- 🔭 I’m currently working on [Qpkendra](https://qpkendra.com)
+- 🔭 Worked On [Qpkendra](https://qpkendra.com)
+  
+- ⭐ Experience on  **ReactJS,Next.JS,Express,MongoDB,Redux,Material UI,Ant Design**
 
-- 🌱 I’m currently learning **ReactJS,GraphQL,Material UI,Ant Design ,Python,Swift**
+- ⭐ AWS certified Cloud Practioner || Google Certified Cloud Digital Leader (Foundational Certificate's).
+  
+- 🌱 I’m currently learning **Next.JS,MongoDB,GraphQL,Python,Swift**
 
-- 📫 How to reach me **hello@qpkendra.com**
-
-- ⚡ Fun fact **Be Simple | Be You**
+- 📫 Reach me **hello@qpkendra.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
